@@ -40,3 +40,7 @@ Dane wyjsciowe: dla kazdego chwili zgodnie z zadanym interwalem (w formie np csv
 - narastajaco maksymalny czas kasjera oczekujacego na klienta
 - sredni czas obslugi w kasie klienta ogólnie
 - sredni czas obslugi w kasie klienta z kazdej kategorii
+
+Simulation results:
+
+![simulationresults](https://user-images.githubusercontent.com/17216605/27081181-7ea5e83e-503f-11e7-9dcf-fd0f629fce65.png)
